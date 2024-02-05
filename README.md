@@ -6,7 +6,7 @@ Here we made available the PRS scoring file and extrapolation and calculation wi
 
 ## Columns in PRS scoring file:
 1. rsID: Variant ID;
-2. A1: Effect Allele
+2. A1: Effect Allele;
 3. LDPRED2_betas: Renormalized Betas with LDPred2
 
 ## Columns in files from testing datasets (UKB, Baependi and Pelotas):
